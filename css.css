@@ -1,0 +1,95 @@
+body
+{
+	background-color: #BDBDBD;
+}
+
+
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
+
+
+h1
+{
+	background-color: grey;
+	color:#8A0829;
+	
+}
+
+h2
+{
+	text-align: left;
+	margin-left: 40%;
+	color: #8A0829;
+	font-size: 150%;
+}
+
+h3
+{
+	text-align: center;
+	color: #8A0829;
+	font-size: 150%;
+	background-color: grey;
+}
+
+
+
+nav
+{
+ 	background-color: grey;
+	width:90%;
+}
+
+#corps
+{
+	margin-left: auto;
+	margin-right: auto;
+	width:40%;
+	height:100%;
+	box-shadow: 10px 10px;
+	background-color:white;
+}
+
+p{text-align:center;}
+
+.left /*collone*/ 
+{
+	display:block;
+	float:left;
+	background-color:#424242;
+	width:25%;
+	height:100%;
+}
+
+p
+{
+	text-align:center;
+	color:white;
+}
+
+#foot p
+{
+	color:white;
+	text-align: left;
+	margin-left: 3%;
+	margin-top: 230%;
+	
+	
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    width: 50%;
+}
+
+td, th {
+    border: 1px #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}s
